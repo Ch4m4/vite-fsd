@@ -3,9 +3,11 @@ The command line interface (CLI) for creating and maintain front-end projects.
 
 ## Stack
 A modern approach to creating a frontend application:
-- [Vite] - fast and easy bundler
-- [Feature-Sliced Design] - powerful architecture for frontend projects
-- [Vitest] - a vite powered testing framework
+- [Vite] - the fast and easy bundler.
+- [Feature-Sliced Design] - the powerful architecture for frontend projects.
+- [Vitest] - a vite powered testing framework.
+- [ESLint FSD rules] - The rules for FSD help ensure correct adherence to the architecture without pain.
+- [Typescript] - a strongly typed programming language that builds on JavaScript
 
 ## Installation
 ```bash
@@ -58,6 +60,8 @@ Vite-FSD is open-source software, licensed under the [MIT License].
 [Vite]: https://vitejs.dev/
 [Feature-Sliced Design]: https://feature-sliced.design/
 [Vitest]: https://vitest.dev/
+[ESLint FSD rules]: https://github.com/feature-sliced/eslint-config
+[TypeScript]: https://www.typescriptlang.org/
 [MIT License]: ./LICENSE
 
 [//]: # (Wiki)
