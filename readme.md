@@ -2,7 +2,7 @@
 The command line interface (CLI) for creating and maintain front-end projects.
 
 ## Stack
-A modern approach to creating a frontend application:
+A modern approach for creating most frontend applications:
 - [Vite] - the fast and easy bundler.
 - [Feature-Sliced Design] - the powerful architecture for frontend projects.
 - [Vitest] - a vite powered testing framework.
