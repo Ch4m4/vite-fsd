@@ -6,7 +6,7 @@ A modern approach for creating most frontend applications:
 - [Vite] - the fast and easy bundler.
 - [Feature-Sliced Design] - the powerful architecture for frontend projects.
 - [Vitest] - a vite powered testing framework.
-- [ESLint FSD rules] - The rules for FSD help ensure correct adherence to the architecture without pain.
+- [ESLint FSD rules] - the rules for FSD help ensure correct adherence to the architecture without pain.
 - [Typescript] - a strongly typed programming language that builds on JavaScript
 
 ## Installation
