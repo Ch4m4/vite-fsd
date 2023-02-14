@@ -29,10 +29,9 @@ It's really fast, easy and powerful!
 - one of the best architecture for frontend projects
 - development and production environments
 - fastest testing environment
-- ready-made documentation environment
-- CI/CD environment
 
 > Enjoy! Stay tuned for more useful tools:
+> - CI/CD environment
 > - documentation environment
 > - deployment environment
 > - monitoring environment
