@@ -14,10 +14,10 @@ npm install -g vite-fsd
 
 ## Usage
 ```bash
-vite-fsd <command> --[options]
+vite-fsd <command> <param> --option <value>
 ```
 
-> For more information on the available commands and options, you can run the following command:
+> For more information of [Vite-FSD CLI], you can run the following command:
 > ```bash
 > vite-fsd --help
 > ```
@@ -59,3 +59,8 @@ Vite-FSD is open-source software, licensed under the [MIT License].
 [Feature-Sliced Design]: https://feature-sliced.design/
 [Vitest]: https://vitest.dev/
 [MIT License]: ./LICENSE
+
+[//]: # (Wiki)
+[Vite-FSD Wiki]: https://github.com/Ch4m4/vite-fsd/wiki
+[Vite-FSD CLI]: https://github.com/Ch4m4/vite-fsd/wiki/CLI
+
