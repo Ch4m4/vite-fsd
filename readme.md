@@ -26,11 +26,16 @@ vite-fsd <command> --[options]
 
 ### 1. Create a new project
 It's really fast, easy and powerful!
+
+```bash
+vite-fsd init
+```
+
 - one of the best architecture for frontend projects
 - development and production environments
 - fastest testing environment
-
 > Enjoy! Stay tuned for more useful tools:
+
 > - CI/CD environment
 > - documentation environment
 > - deployment environment
@@ -40,10 +45,10 @@ It's really fast, easy and powerful!
 ### 2. Use the CLI to create a new feature
 Configured templates for FSD. Just create a slice for your feature :)
 
-Example:
 ```bash
 vite-fsd create <template> <name> --[options]
 ```
+
 Vite-FSD currently supports the following templates: `ui`, `lib`, `feauture`
 
 ## License
